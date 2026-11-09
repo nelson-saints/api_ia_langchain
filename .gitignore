@@ -1,0 +1,28 @@
+# Segredos / variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Imagens geradas pelo notebook
+image.png
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
